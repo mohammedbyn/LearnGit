@@ -1,0 +1,10 @@
+Names should be updated. All fruits names put below:
+
+enum Fruits {
+      APPLE = 5,
+      GRAPES= 2,
+      ORANGES = 3,
+      CHERRY = 1
+}
+
+console.log(Fruits.APPLE);
