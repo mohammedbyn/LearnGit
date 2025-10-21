@@ -8,3 +8,5 @@ enum Fruits {
 }
 
 console.log(Fruits.APPLE);
+
+// This is a notice message after restore commands.
